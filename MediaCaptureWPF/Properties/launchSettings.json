@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MediaCaptureWPF": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

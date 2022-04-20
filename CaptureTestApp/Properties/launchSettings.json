@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CaptureTestApp": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
